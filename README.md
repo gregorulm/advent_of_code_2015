@@ -1,5 +1,5 @@
 # Advent of Code 2015 - Solutions in Python
-# Gregor Ulm, 2016
+Author: Gregor Ulm
 
 This repository contains a complete set of solutions to
 Eric Wastl's Advent of Code (2015). Problem descriptions
